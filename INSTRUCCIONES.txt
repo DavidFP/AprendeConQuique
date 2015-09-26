@@ -1,0 +1,41 @@
+﻿========================================================================
+Instrucciones de Instalación / Ejecución
+========================================================================
+1º- Descomprimir el fichero .zip entregado.
+
+2º- Se creará una carpeta llamada "Aprende Mateméticas con Quique - Versión 1.0 "
+
+3º- Acceda al contenido de esta carpeta, y una vez dentro haga click en "Mates_v1.0.jar"
+**************************Importante**************************************
+No eliminar o mover del directorio actual la carpeta /lib
+**************************************************************************
+
+
+
+
+
+
+
+=========================================================================
+RECOMENDACIONES PARA LA EJECUCIÓN
+=========================================================================
+
+Para ejecutar esta aplicación basta con tener la carpeta "lib" en el mismo 
+directorio en que se esté ejecutando Mates_V1.0.jar
+
+Para ejecutarlo en entornos de escritorio basta con hacer doble click en el
+icono del fichero .jar
+
+Para ejecutarlo en consola podemos usar el siguiente comando:
+
+java -jar "Mates_v1.0.jar"
+
+=========================================================================
+ACERCA DE:
+=========================================================================
+Esta aplicación ha sido creada como práctica de la asignatura "Interacción
+Persona Ordenador" de la titulación "Grado en Ingeniería Informática" de 
+la Universidad de Jaén durante el curso 2013-2014
+
+Autor: David Fernández Puentes.
+==========================================================================
